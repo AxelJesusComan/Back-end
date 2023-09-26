@@ -1,0 +1,25 @@
+.text1{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.datos{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+}
+
+.footer{
+    background-color: black;
+    margin-bottom: 100%;
+    margin-top: -50px;
+}
